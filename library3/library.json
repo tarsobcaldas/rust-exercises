@@ -1,0 +1,23 @@
+{
+  "name": "Library",
+  "file_path": "library.json",
+  "catalogue": {
+    "1733944913": {
+      "id": 1733944913,
+      "title": "Mala 1",
+      "author": "Odette de Queiroz Boudet Fernandes",
+      "year": 2022,
+      "available": true,
+      "media_type": {
+        "Paiting": {
+          "height": 100,
+          "width": 100,
+          "material": "Óleo sobre tela"
+        }
+      },
+      "keywords": [
+        "mala"
+      ]
+    }
+  }
+}

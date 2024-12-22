@@ -1,0 +1,16 @@
+{
+  "name": "Library",
+  "file_path": "library.json",
+  "books": {
+    "9781593278281": {
+      "title": "The Rust Programming Language",
+      "author": "Steve Klabnik",
+      "available": true,
+      "isbn": 9781593278281,
+      "keywords": [
+        "rust",
+        "programming"
+      ]
+    }
+  }
+}
